@@ -11,6 +11,6 @@
   - Memfilter Data di Pandas
   - Visualisasi Data di Pandas
 
-## References:
+## References
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
 - https://www.kaggle.com/learn/pandas
