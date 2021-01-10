@@ -4,6 +4,8 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richardcsuwandi/ppsd-coding-workshop/blob/main/template.ipynb)
 
+Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini: https://colab.research.google.com/notebooks/intro.ipynb
+
 ## Table of Contents
 - Apa itu Pandas?
 - Menginstall Pandas
@@ -16,14 +18,6 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
   
 ## Data
 Data yang akan digunakan untuk workshop kali ini adalah data penumpang kapal Titanic yang diperoleh dari [Kaggle](https://www.kaggle.com/c/titanic/data). Data yang sama juga terdapat di GitHub repository ini dengan nama file `titanic.csv`. 
-
-Untuk menggunakan data secara langsung (tanpa mendownloadnya terlebih dahulu), kita bisa menggunakan url https://raw.githubusercontent.com/richardcsuwandi/ppsd-coding-workshop/main/titanic.csv. Sehingga, kita dapat mengimport datanya sebagai berikut:
-
-```python
-import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/richardcsuwandi/ppsd-coding-workshop/main/titanic.csv")
-df
-```
 
 ## References
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
