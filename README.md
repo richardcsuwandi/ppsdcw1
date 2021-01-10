@@ -17,7 +17,7 @@ Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini:
   - Visualisasi Data di Pandas
   
 ## Data
-Data yang akan digunakan untuk workshop kali ini adalah data penumpang kapal Titanic yang diperoleh dari [Kaggle](https://www.kaggle.com/c/titanic/data). Data yang sama juga terdapat di GitHub repository ini dengan nama file `titanic.csv`. 
+Data yang akan digunakan untuk workshop kali ini adalah data penumpang kapal Titanic yang diperoleh dari [Kaggle](https://www.kaggle.com/c/titanic/data). Data yang sama juga terdapat di GitHub repository ini dengan nama file `titanic.csv` 
 
 ## References
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
