@@ -15,9 +15,14 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
   - Visualisasi Data di Pandas
   
 ## Data
-Data yang akan digunakan untuk workshop kali ini adalah data penumpang kapal Titanic yang diperoleh dari [Kaggle](https://www.kaggle.com/c/titanic/data). Data yang sama juga terdapat di GitHub repository ini dengan nama file `titanic.csv`.
+Data yang akan digunakan untuk workshop kali ini adalah data penumpang kapal Titanic yang diperoleh dari [Kaggle](https://www.kaggle.com/c/titanic/data). Data yang sama juga terdapat di GitHub repository ini dengan nama file `titanic.csv`. 
 
-```code
+Untuk menggunakan data secara langsung (tanpa mendownloadnya terlebih dahulu), kita bisa menggunakan url https://raw.githubusercontent.com/richardcsuwandi/ppsd-coding-workshop/main/titanic.csv. Sehingga, kita dapat mengimport datanya sebagai berikut:
+
+```python
+import pandas as pd
+df = pd.read_csv("https://raw.githubusercontent.com/richardcsuwandi/ppsd-coding-workshop/main/titanic.csv")
+df
 ```
 
 ## References
