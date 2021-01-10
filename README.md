@@ -13,6 +13,12 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
   - Memilih Baris dan Kolom
   - Memfilter Data di Pandas
   - Visualisasi Data di Pandas
+  
+## Data
+Data yang akan digunakan untuk workshop kali ini adalah data penumpang kapal Titanic yang diperoleh dari [Kaggle](https://www.kaggle.com/c/titanic/data). Data yang sama juga terdapat di GitHub repository ini dengan nama file `titanic.csv`.
+
+```code
+```
 
 ## References
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
