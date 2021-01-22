@@ -4,7 +4,7 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richardcsuwandi/ppsd-coding-workshop/blob/main/template.ipynb)
 
-Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini: https://colab.research.google.com/notebooks/intro.ipynb
+Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini: https://colab.research.google.com/notebooks/welcome.ipynb?hl=id
 
 ## Table of Contents
 - Apa itu Pandas?
